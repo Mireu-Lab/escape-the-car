@@ -1,4 +1,4 @@
 {
-	"test_result" : ["HELLO!", "hello world"],
+	"test_result" : [0],
 	"run_time" : 3600
 }
